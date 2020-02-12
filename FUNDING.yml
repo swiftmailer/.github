@@ -1,1 +1,6 @@
 github: fabpot
+tidelift: packagist/swiftmailer/swiftmailer
+custom:
+    - https://symfony.com/cloud/
+    - https://live.symfony.com/
+    - https://certification.symfony.com/
